@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087361185926",
+    "project_id": "turnierproto2",
+    "storage_bucket": "turnierproto2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087361185926:android:7ce4d0c531ed667766f907",
+        "android_client_info": {
+          "package_name": "com.mayar.turnier_proto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJarmFzAMMzkTQj2z29a3kqa_FKmxQVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087361185926:android:e337ea7ae8a3fd4a66f907",
+        "android_client_info": {
+          "package_name": "com.mayar.turnierproto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJarmFzAMMzkTQj2z29a3kqa_FKmxQVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1087361185926",
+    "project_id": "turnierproto2",
+    "storage_bucket": "turnierproto2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087361185926:android:5321aae20e76c15c66f907",
+        "android_client_info": {
+          "package_name": "com.admin.turnier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087361185926-g0761i5p7ntg7h910e1h5ta9l9in9p8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin.turnier",
+            "certificate_hash": "729bef3fce887cca5ec117ffc5935fcbb48de076"
+          }
+        },
+        {
+          "client_id": "1087361185926-5i7d38oi6i0nkr8ru4vk207gus68b5jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJarmFzAMMzkTQj2z29a3kqa_FKmxQVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087361185926-5i7d38oi6i0nkr8ru4vk207gus68b5jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087361185926-18ioio389ookhp2ma68d844mhq93ssj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.turnier"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087361185926:android:e337ea7ae8a3fd4a66f907",
+        "android_client_info": {
+          "package_name": "com.mayar.turnierproto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087361185926-dln07se9loqk46kik0cloa13i79obtlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayar.turnierproto",
+            "certificate_hash": "729bef3fce887cca5ec117ffc5935fcbb48de076"
+          }
+        },
+        {
+          "client_id": "1087361185926-5i7d38oi6i0nkr8ru4vk207gus68b5jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKJarmFzAMMzkTQj2z29a3kqa_FKmxQVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087361185926-5i7d38oi6i0nkr8ru4vk207gus68b5jr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087361185926-18ioio389ookhp2ma68d844mhq93ssj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.admin.turnier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
